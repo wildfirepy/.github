@@ -26,4 +26,4 @@ We pledge to help the entire community follow the code of conduct, and to not re
 ### License
 The WildfirePy Community Code of Conduct is licensed under a Creative Commons Attribution 4.0 International License. We encourage other communities related to ours to use or adapt this code as they see fit.
 
-*This code of conduct is mostly based on the SunPy Community Code of Conduct with minor changes.*
+*This code of conduct is mostly based on the [SunPy Community Code of Conduct](https://github.com/sunpy/sunpy/blob/master/CODE_OF_CONDUCT.rst) with minor changes.*
